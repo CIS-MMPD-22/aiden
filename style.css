@@ -1,0 +1,28 @@
+h1 {
+  color: #ce87e0;
+  font-family: 'Zeyada', cursive;
+}
+
+body{
+  color: #d16db6;
+  background-color: black;
+  font-family: monospace;
+}
+
+a {color: #8e59ab;}
+
+p {font-size: 20px;}
+
+#jj-b-day {color: #81a9eb;}
+
+ul {
+  color: #7b32ba;
+  font-size: 15px;
+}
+
+li {
+  padding: 8px;
+  padding-bottom: 20px;
+}
+
+#bottom-li {padding-bottom: 50px}
